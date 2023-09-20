@@ -7,7 +7,8 @@ This is me.I share about my skills, educational background, hobbies and my favou
 ******
 
 ## SCREENSHOTS
-- ![Screenshot 2023-09-18 at 5 28 42 PM](https://github.com/kahenya-anita/Portfolio101/assets/62019551/93aa6934-3d3b-4a8a-ab2a-644cb4b0a26a)
+-  ![Screenshot from 2023-09-20 08-12-57](https://github.com/Gathukumi/portfoliosite/assets/144127804/e64cf10f-79de-4b6e-be77-7e8ff53b9270)
+
 
 - 
 
@@ -38,7 +39,7 @@ This is me.I share about my skills, educational background, hobbies and my favou
 > Run using live server
 *****
 ## Live Link
-Or you can access the web application directly via this [https://kahenya-anita.github.io/Portfolio101/](https://kahenya-anita.github.io/Portfolio101/)
+Or you can access the web application directly via this  https://gathukumi.github.io/portfoliosite/
 *****
 ## Dependencies
 - Google fonts
@@ -52,7 +53,7 @@ Or you can access the web application directly via this [https://kahenya-anita.g
 3. JavaScript
 *****
 ## Contact Information
-* Email : anitakahenya1@gmail.com
+* Email : gathukumiruhiu001@gmail.com
 *****
 ## [License](LICENSE)
 MIT License
